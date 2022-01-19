@@ -891,11 +891,11 @@ ul.winning-awards li:last-child{
 }
 
 .ProjectHappynest .showcase-section-text {
-    /* width: 40%; 
+    width: 40%;
      margin-top: -450px; 
     display: inline-block;
-   transform: translateY(-280px);*/
-   display: table-cell;
+   transform: translateY(-280px);
+    display: table-cell;
     vertical-align: bottom;
 }
 
